@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1752936292 source:/home/acherontas/codeblock/sqrt_xeiro_appro_arm64/get_the_sum.cpp
+	"get_the_sum.h"
+	<string.h>
+	<iostream>
+
+1752935843 /home/acherontas/codeblock/sqrt_xeiro_appro_arm64/get_the_sum.h
+	<string.h>
+	<iostream>
+
+1752936091 source:/home/acherontas/codeblock/sqrt_xeiro_appro_arm64/main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	"get_the_sum.h"
+
