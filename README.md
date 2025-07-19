@@ -22,6 +22,7 @@ u can try it at home :)
 
 u can modify it freely 
 u cant sell it θα πινετε νερακι forever ever 
+have a nice play
 
 for any non-info about this project 
 contact me at acherontia.myosotis@gmail.com
