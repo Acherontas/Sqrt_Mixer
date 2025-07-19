@@ -2,7 +2,7 @@
 Just a mix of actions to find the square root
 
 its doesnt work for all the numbers
-it mix a bunch of numbers
+it mixes a bunch of numbers
 from user input and 
 others from the internal calculation
 of lower values of square roots from 
@@ -12,10 +12,11 @@ it doesnt work well
 u need to guess a bit
 u will have an approximation 
 a window of opportunity 
-and a lot of manual number writing
+and a lot of manual number writing for insertion
 
 all of these will be mixed in a wonderful 
 way of the basic mathematical addition multiplication division and removal
+as a results.
 
 just like a bet system 
 u can try it at home :)
